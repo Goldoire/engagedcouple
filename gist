@@ -35,6 +35,14 @@
             "Kanojo Scans":"/proxy/api/imgur/chapter/Ok4mB8A/"
          },
          "last_updated":"1625357899"
+      },
+      "20":{
+         "title":"Chapter 20",
+         "volume": "2",
+         "groups":{
+            "Kanojo Scans":"/proxy/api/imgur/chapter/gu1SL81/"
+         },
+         "last_updated":"1625970135"
       }
    }
 }
