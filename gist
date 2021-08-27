@@ -70,11 +70,27 @@
       },
       "24":{
          "title":"Chapter 24",
-         "volume": "2",
+         "volume": "3",
          "groups":{
             "Kanojo Scans":"/proxy/api/imgur/chapter/CUY7Qz9/"
          },
          "last_updated":"1628732033"
-      }
+      },
+      "25":{
+         "title":"Chapter 25",
+         "volume": "3",
+         "groups":{
+            "Kanojo Scans":"/proxy/api/imgur/chapter/CUY7Qz9/"
+         },
+         "last_updated":"1628732033"
+      },
+      "26":{
+         "title":"Chapter 24",
+         "volume": "3",
+         "groups":{
+            "Kanojo Scans":"/proxy/api/imgur/chapter/QTH3DwI/"
+         },
+         "last_updated":"1630045786"
+      },
    }
 }
