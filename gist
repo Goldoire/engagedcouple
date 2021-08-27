@@ -80,9 +80,9 @@
          "title":"Chapter 25",
          "volume": "3",
          "groups":{
-            "Kanojo Scans":"/proxy/api/imgur/chapter/CUY7Qz9/"
+            "Kanojo Scans":"/proxy/api/imgur/chapter/AXwmUyM/"
          },
-         "last_updated":"1628732033"
+         "last_updated":"1630047497"
       },
       "26":{
          "title":"Chapter 24",
@@ -91,6 +91,6 @@
             "Kanojo Scans":"/proxy/api/imgur/chapter/QTH3DwI/"
          },
          "last_updated":"1630045786"
-      },
+      }
    }
 }
